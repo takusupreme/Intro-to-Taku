@@ -6,7 +6,7 @@ I am a lifelong computer enthusiast and newly found cyber security enthusiast fo
 🖥️ **Technical Skills**
 --
 
-1. System Hardening: Principal of least privilege, Firewalls, user/group roles and policies
+1. System Hardening: Principal of least privilege, Firewalls, User/group roles and policies, Filesystem Partioning and Encryption
 2. Network Security: SIEM(Splunk, ELK), Monitoring(Wireshark), IDS/IPS(Snort,Zeek), Fortinet Firewalls
 3. Penetration Testing: Kali Linux, Nmap, Metasploit, Zenmap, Shodan.io, Recon-ng, Searchsploit, Responder
 4. Cloud Security: Basic knowledge of AWS security, Identity and Access Management (IAM)
