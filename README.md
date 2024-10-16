@@ -14,10 +14,11 @@ I am a lifelong computer enthusiast and newly found cyber security enthusiast fo
 🖼️ **Cyber Security Projects**
 --
 ## **Penetration Test Simulation**
-**Overview**
+**Overview**: Performed a compreshive security analysis of a web application and operating systems (Linux and Windows) using Kali linux.
 [Penentration Test Report](https://docs.google.com/document/d/1Pzc-ybb8dwChI00Ru5x4ZfLWMcRz9OXS_ewLvT9_ijs/edit?usp=sharing)
 
 ## **SIEM Analysis Presentation**
 
 ## **Firewalld vs UFW**
-
+**Overview**: Demonstration and comparison of the Firewalld and uncomplicated firewall(UFW) on a linux systems.
+[Firewalld vs UFW]()
