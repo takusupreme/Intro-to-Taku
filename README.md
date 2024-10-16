@@ -13,5 +13,11 @@ I am a lifelong computer enthusiast and newly found cyber security enthusiast fo
 
 🖼️ **Cyber Security Projects**
 --
+## **Penetration Test Simulation**
+**Overview**
+[Penentration Test Report](https://docs.google.com/document/d/1Pzc-ybb8dwChI00Ru5x4ZfLWMcRz9OXS_ewLvT9_ijs/edit?usp=sharing)
 
+## **SIEM Analysis Presentation**
+
+## **Firewalld vs UFW**
 
