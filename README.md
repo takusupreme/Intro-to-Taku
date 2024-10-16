@@ -6,8 +6,8 @@ I am a lifelong computer enthusiast and newly found cyber security enthusiast fo
 🖥️ **Technical Skills**
 --
 
-1. System Hardening: Principal of least privilege, Firewalls, User/group roles and policies, Filesystem Partioning and Encryption
-2. Network Security: SIEM(Splunk, ELK), Monitoring(Wireshark), IDS/IPS(Snort,Zeek), Fortinet Firewalls
+1. System Hardening: Principal of least privilege, Firewall Configuration, User/group roles and policies, Filesystem Partioning and Encryption
+2. Network Security: SIEM(Splunk, ELK), Monitoring(Wireshark), IDS/IPS(Snort,Zeek), Fortinet Firewall Configuration
 3. Penetration Testing: Kali Linux, Nmap, Metasploit, Zenmap, Shodan.io, Recon-ng, Searchsploit, Responder
 4. Cloud Security: Basic knowledge of AWS security, Identity and Access Management (IAM)
 
@@ -18,6 +18,9 @@ I am a lifelong computer enthusiast and newly found cyber security enthusiast fo
 [Penentration Test Report](https://docs.google.com/document/d/1Pzc-ybb8dwChI00Ru5x4ZfLWMcRz9OXS_ewLvT9_ijs/edit?usp=sharing)
 
 ## **SIEM Analysis Presentation**
+**Overview**: Utilized Splunk to configure and design a custom security monitoring environment for a fictional organization
+[Review Question](https://docs.google.com/document/d/1vR_sf__VerMFf3jLf1C3fnNE8-j0v103QRO3d1IyYvI/edit?tab=t.0)
+[PowerPoint Presentation](https://docs.google.com/presentation/d/1oMK8GK9bSemw7A0eL_60jzyKnKNzuj8FqicmuchrGZI/edit#slide=id.g8bd883d690_5_4119)
 
 ## **Firewalld vs UFW**
 **Overview**: Demonstration and comparison of the Firewalld and uncomplicated firewall(UFW) on a linux systems.
